@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "4G/5G Bracket Antenna (698-2700MHz)",
+        "PN": "B4BE-6-60-5SP",
+        "MF": "PANORAMA ANTENNAS"
+      },
+      "MID": "MID20284",
+      "MD": "ANTENNA,GSM/UMTS/LTE, 698-2700MHz. The B4BE(W)-6-60 antenna is a cost effective omni-directional broad band antenna range for 4G/3G/2G and 5G devices. It covers 617-960/1710-6000MHz and is suitable for external or internal installation. Alternate Parts: STDPA481550SNRA901, B4BE-6-60, B4BE-7-27-5SP.",
+      "MT": "Electronic Material",
+      "MQNT": 2,
+      "MCost": 3343.05,
+      "MQATG": "#CLASS_0",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2FMyLab2025%2FMID20284%2Fmain%2FEC054218_en_-_1.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/MyLab2025/MID20284/main/PIC000000000320709_en_-.1_GSS_EDC_9159_KM51491210_HERO2.jpg"
+      ]
+    }
+  ]
+}
